@@ -1,2 +1,0 @@
-# face_rekoginition
-Amazon Rekognitionで画像解析ツールを作成
